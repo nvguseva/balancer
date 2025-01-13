@@ -1,5 +1,5 @@
-from contragent_service import ContragentService
-from cash_flow_service import CashFlowService
+from services.contragent_service import ContragentService
+from services.cash_flow_service import CashFlowService
 
 
 if __name__ == "__main__":
